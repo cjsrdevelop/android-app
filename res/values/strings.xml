@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- App strings -->
+    <string name="app_name">CJSR FM88</string>
+    <!-- CJSRActivity strings -->
+    <!-- Network Dialog strings -->
+    <string name="Title">Network not Connected</string>
+    <string name="Message">Please connect to a network and try again.</string>
+    <string name="positiveButton">OK</string>
+	<!-- Button strings -->
+    <string name="buttonWebcd">cjsr.com</string>
+    <string name="buttonSharecd">Share</string>
+
+</resources>
